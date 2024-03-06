@@ -32,7 +32,8 @@ max_pooling3d_2 (MaxPooling3)(None, 75, 5, 17, 75)     0
 Total params: 8,471,924
 Trainable params: 8,471,924
 Non-trainable params: 0
-'''
+```
+
 ## Usage
 
 To use the Unspoken Utterances LipNet model, follow these steps:
@@ -46,7 +47,7 @@ To use the Unspoken Utterances LipNet model, follow these steps:
 
 To download data from the GRID corpus, visit [GRID Corpus](http://spandh.dcs.shef.ac.uk/gridcorpus/) and follow the provided instructions.
 
-![Final Result]((https://github.com/yarragotiravitheja/Unspoken-Utterances/blob/main/output.png))
+![Final Result](https://github.com/yarragotiravitheja/Unspoken-Utterances/blob/main/output.png)
 
 
 ## Contributing
